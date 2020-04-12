@@ -34,6 +34,9 @@ As with all modules you can either pass the constructor function (class) to the 
   // the id of your project
   projectId: '[PROJECTID]',
 
+  // add an api key if your backend service needs one to download translations
+  readApiKey: '[APIKEY]',
+
   // add an api key if you want to send missing keys
   apiKey: '[APIKEY]',
 
